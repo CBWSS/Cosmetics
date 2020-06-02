@@ -257,7 +257,7 @@
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"vapeblitzkrieg":
 {"name":"vapeblitzkrieg","type":"cape","scale":0.16,"active":false,"resourceLocation":"vapeblitzkrieg"},"venezuela":
 {"name":"venezuela","type":"cape","scale":0.16,"active":false,"resourceLocation":"venezuela"},"viperblack":
-{"name":"viperblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblack"},"viperblue":
+{"name":"viperblack","type":"cape","scale":0.16,"active":true,"resourceLocation":"viperblack"},"viperblue":
 {"name":"viperblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblue"},"viperorange":
 {"name":"viperorange","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperorange"},"viperpink":
 {"name":"viperpink","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperpink"},"viperred":
@@ -266,7 +266,7 @@
 {"name":"voltage","type":"cape","scale":0.16,"active":false,"resourceLocation":"voltage"},"war_cape":
 {"name":"war_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"war_cape"},"war_cape2":
 {"name":"war_cape2","type":"cape","scale":0.16,"active":false,"resourceLocation":"war_cape2"},"weebs":
-{"name":"weebs","type":"cape","scale":0.16,"active":true,"resourceLocation":"weebs"},"whiteheart":
+{"name":"weebs","type":"cape","scale":0.16,"active":false,"resourceLocation":"weebs"},"whiteheart":
 {"name":"whiteheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"whiteheart"},"wine":
 {"name":"wine","type":"cape","scale":0.16,"active":false,"resourceLocation":"wine"},"wispexe":
 {"name":"wispexe","type":"cape","scale":0.16,"active":false,"resourceLocation":"wispexe"},"xnestorio":
@@ -277,8 +277,8 @@
 {"name":"youtubeheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtubeheart"},"zonixblack":
 {"name":"zonixblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixblack"},"zonixwhite":
 {"name":"zonixwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixwhite"},"red":
-{"name":"red","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"red"},"black":
-{"name":"black","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black"},"blue":
+{"name":"red","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"red"},"black":
+{"name":"black","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"darkblue"},"yellow":
 {"name":"yellow","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"yellow"},"green":
