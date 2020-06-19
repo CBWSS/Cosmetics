@@ -60,7 +60,7 @@
 {"name":"cb_winter","type":"cape","scale":0.16,"active":false,"resourceLocation":"cb_winter"},"cb_winter_candy_stick":
 {"name":"cb_winter_candy_stick","type":"cape","scale":0.16,"active":false,"resourceLocation":"cb_winter_candy_stick"},"cb_yellow":
 {"name":"cb_yellow","type":"cape","scale":0.16,"active":false,"resourceLocation":"cb_yellow"},"cbred":
-{"name":"cbred","type":"cape","scale":0.16,"active":false,"resourceLocation":"cbred"},"croatia":
+{"name":"cbred","type":"cape","scale":0.16,"active":true,"resourceLocation":"cbred"},"croatia":
 {"name":"croatia","type":"cape","scale":0.16,"active":false,"resourceLocation":"croatia"},"dauntless":
 {"name":"dauntless","type":"cape","scale":0.16,"active":false,"resourceLocation":"dauntless"},"djibouti":
 {"name":"djibouti","type":"cape","scale":0.16,"active":false,"resourceLocation":"djibouti"},"dragneel":
@@ -266,7 +266,7 @@
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"vapeblitzkrieg":
 {"name":"vapeblitzkrieg","type":"cape","scale":0.16,"active":false,"resourceLocation":"vapeblitzkrieg"},"venezuela":
 {"name":"venezuela","type":"cape","scale":0.16,"active":false,"resourceLocation":"venezuela"},"viperblack":
-{"name":"viperblack","type":"cape","scale":0.16,"active":true,"resourceLocation":"viperblack"},"viperblue":
+{"name":"viperblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblack"},"viperblue":
 {"name":"viperblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblue"},"viperorange":
 {"name":"viperorange","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperorange"},"viperpink":
 {"name":"viperpink","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperpink"},"viperred":
