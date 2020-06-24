@@ -133,7 +133,8 @@
 {"name":"Lunar_Gold","type":"cape","scale":0.16,"active":false,"resourceLocation":"Lunar_Gold"},"Lunar_Gold_2":
 {"name":"Lunar_Gold_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"Lunar_Gold_2"},"lunarshowdown1":
 {"name":"lunarshowdown1","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarshowdown1"},"lunarshowdown2":
-{"name":"lunarshowdown2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarshowdown2"},"minehq_heart":
+{"name":"lunarshowdown2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarshowdown2"}"lunahcf_black":
+{"name":"lunahcf_black","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunahcf_black"},"minehq_heart":
 {"name":"minehq_heart","type":"cape","scale":0.16,"active":false,"resourceLocation":"minehq_heart"},"map1eotw":
 {"name":"map1eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1eotw"},"map1nasa":
 {"name":"map1nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1nasa"},"marcel":
@@ -257,7 +258,7 @@
 {"name":"ultra_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"ultra_cape_2"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":false,"resourceLocation":"usa"},"valentine_cape_1":
 {"name":"valentine_cape_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_1"},"valentine_cape_2":
-{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
+{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
 {"name":"valentine_cape_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_3"},"valentine_cape_4":
 {"name":"valentine_cape_4","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_4"},"valentinecupid":
 {"name":"valentinecupid","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinecupid"},"valentinehearts":
@@ -300,10 +301,10 @@
 {"name":"indigo","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"indigo"},"orange":
 {"name":"orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"orange"},"orangefogwings":
 {"name":"orangefogwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"orangefogwings"},"pink":
-{"name":"pink","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"pink"},"black_blue":
+{"name":"pink","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"pink"},"black_blue":
 {"name":"black_blue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_blue"},"black_orange":
 {"name":"black_orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_orange"},"normal":
-{"name":"normal","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"normal"},"butterfly_1":
+{"name":"normal","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"normal"},"butterfly_1":
 {"name":"butterfly_1","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"butterfly_1"},"butterfly_2":
 {"name":"butterfly_2","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"butterfly_2"},"lightbluewings":
 {"name":"lightbluewings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"lightbluewings"},"lightpinkwings":
