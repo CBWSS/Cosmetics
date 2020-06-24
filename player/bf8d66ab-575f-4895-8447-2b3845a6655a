@@ -1,5 +1,6 @@
 {"uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4","username":null,"cosmetics":{"420":
-{"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"420private":
+{"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"lunahcf_black":
+{"name":"lunahcf_black","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunahcf_black"},"420private":
 {"name":"420private","type":"cape","scale":0.16,"active":false,"resourceLocation":"420private"},"42020":
 {"name":"42020","type":"cape","scale":0.16,"active":false,"resourceLocation":"42020"},"2011":
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
@@ -257,7 +258,7 @@
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"vapeblitzkrieg":
 {"name":"vapeblitzkrieg","type":"cape","scale":0.16,"active":false,"resourceLocation":"vapeblitzkrieg"},"venezuela":
 {"name":"venezuela","type":"cape","scale":0.16,"active":false,"resourceLocation":"venezuela"},"viperblack":
-{"name":"viperblack","type":"cape","scale":0.16,"active":true,"resourceLocation":"viperblack"},"viperblue":
+{"name":"viperblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblack"},"viperblue":
 {"name":"viperblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblue"},"viperorange":
 {"name":"viperorange","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperorange"},"viperpink":
 {"name":"viperpink","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperpink"},"viperred":
