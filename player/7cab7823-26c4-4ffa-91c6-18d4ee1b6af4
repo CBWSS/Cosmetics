@@ -74,7 +74,7 @@
 {"name":"epaxial","type":"cape","scale":0.16,"active":false,"resourceLocation":"epaxial"},"faze_1":
 {"name":"faze_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"faze_1"},"faze_2":
 {"name":"faze_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"faze_2"},"faithfulnetwork":
-{"name":"faithfulnetwork","type":"cape","scale":0.16,"active":false,"resourceLocation":"faithfulnetwork"},"firework":
+{"name":"faithfulnetwork","type":"cape","scale":0.16,"active":true,"resourceLocation":"faithfulnetwork"},"firework":
 {"name":"firework","type":"cape","scale":0.16,"active":false,"resourceLocation":"firework"},"france":
 {"name":"france","type":"cape","scale":0.16,"active":false,"resourceLocation":"france"},"germany":
 {"name":"germany","type":"cape","scale":0.16,"active":false,"resourceLocation":"germany"},"goldenappledark":
@@ -133,8 +133,7 @@
 {"name":"Lunar_Gold","type":"cape","scale":0.16,"active":false,"resourceLocation":"Lunar_Gold"},"Lunar_Gold_2":
 {"name":"Lunar_Gold_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"Lunar_Gold_2"},"lunarshowdown1":
 {"name":"lunarshowdown1","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarshowdown1"},"lunarshowdown2":
-{"name":"lunarshowdown2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarshowdown2"},"lunahcf_showdown_2":
-{"name":"lunahcf_showdown_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunahcf_showdown_2"},"minehq_heart":
+{"name":"lunarshowdown2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarshowdown2"},"minehq_heart":
 {"name":"minehq_heart","type":"cape","scale":0.16,"active":false,"resourceLocation":"minehq_heart"},"map1eotw":
 {"name":"map1eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1eotw"},"map1nasa":
 {"name":"map1nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1nasa"},"marcel":
@@ -318,5 +317,5 @@
 {"name":"purple","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"purple"},"purplefogwings":
 {"name":"purplefogwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"purplefogwings"},"turquoise":
 {"name":"turquoises","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"turquoise"},"ice":
-{"name":"ice","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"ice"},"bone":
-{"name":"bone","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"bone"}}}
+{"name":"ice","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"ice"},"bone":
+{"name":"bone","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"bone"}}}
