@@ -5,8 +5,8 @@
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
-{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"lunahcf_showdown_2":
-{"name":"lunahcf_showdown_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunahcf_showdown_2"},"animalfox":
+{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"default_sword":
+{"name":"default_sword","type":"cape","scale":0.16,"active":true,"resourceLocation":"default_sword"},"animalfox":
 {"name":"animalfox","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalfox"},"animalkitten":
 {"name":"animalkitten","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkitten"},"animalkoala":
 {"name":"animalkoala","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkoala"},"animallion":
@@ -314,9 +314,9 @@
 {"name":"rainbowbutterfly","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"rainbowbutterfly"},"white":
 {"name":"white","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"white"},"gold":
 {"name":"gold","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"gold"},"weedwings":
-{"name":"weedwings","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"weedwings"},"purple":
+{"name":"weedwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"weedwings"},"purple":
 {"name":"purple","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"purple"},"purplefogwings":
 {"name":"purplefogwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"purplefogwings"},"turquoise":
 {"name":"turquoises","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"turquoise"},"ice":
-{"name":"ice","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"ice"},"bone":
+{"name":"ice","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"ice"},"bone":
 {"name":"bone","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"bone"}}}
