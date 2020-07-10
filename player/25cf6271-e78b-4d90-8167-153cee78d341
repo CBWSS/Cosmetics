@@ -1,6 +1,8 @@
 {"uuid":"dbec9284-6a6d-40ac-80a6-881f67c9c515","username":null,"cosmetics":{"youtube_1":
 {"name":"youtube_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_1"},"youtube_2":
 {"name":"youtube_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_2"},"youtube_3":
-{"name":"youtube_3","type":"cape","scale":0.16,"active":true,"resourceLocation":"youtube_3"},"2016":
-{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"bone":
-{"name":"bone","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"bone"}}}
+{"name":"youtube_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_3"},"2016":
+{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"}"lunarjuly1":
+{"name":"lunarjuly1","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunarjuly1"},"bone":
+{"name":"bone","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"bone"},"darkblue":
+{"name":"darkblue","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"darkblue"}}}
