@@ -1,0 +1,20 @@
+{  
+   "uuid":"b7bd61c7-4448-4715-89f4-ffa9a4c48a57", 
+   "username":null,  
+   "cosmetics":{  
+      "normal":{  
+         "name":"normal",  
+         "type":"dragon_wings",  
+         "scale":0.10,  
+         "active":true,  
+         "resourceLocation":"normal"  
+},  
+      "speedsilver":{  
+         "name":"speedsilver",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"speedsilver"  
+      }  
+   }  
+}  
