@@ -1,0 +1,13 @@
+{  
+   "uuid":"18facd79-322c-4d8d-87b9-9f8831e2aa7b", 
+   "username":null,  
+   "cosmetics":{  
+      "lightbluewings":{  
+         "name":"lightbluewings",  
+         "type":"dragon_wings",  
+         "scale":0.10,  
+         "active":true,  
+         "resourceLocation":"lightbluewings"  
+      }  
+   }  
+}  
