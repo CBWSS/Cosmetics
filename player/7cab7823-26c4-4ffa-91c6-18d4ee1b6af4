@@ -5,16 +5,16 @@
       "black":{  
          "name":"black",  
          "type":"dragon_wings",  
-         "scale":0.14,  
+         "scale":0.13,  
          "active":true,  
          "resourceLocation":"black"  
 },  
-      "cb_black":{  
-         "name":"cb_black",  
+      "cb":{  
+         "name":"cb",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"cb_black"  
+         "resourceLocation":"cb"  
       }  
    }  
 }  
