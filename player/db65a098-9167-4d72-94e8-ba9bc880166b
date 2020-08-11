@@ -1,2 +1,20 @@
-{"uuid":"db65a098-9167-4d72-94e8-ba9bc880166b","username":null,"cosmetics":{"CheatBreaker_Black":
-{"name":"CheatBreaker_Black","type":"cape","scale":0.16,"active":true,"resourceLocation":"CheatBreaker_Black"}}}
+{  
+   "uuid":"db65a098-9167-4d72-94e8-ba9bc880166b", 
+   "username":null,  
+   "cosmetics":{  
+      "black":{  
+         "name":"black",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"black"  
+},  
+      "2016":{  
+         "name":"2016",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"2016"  
+      }  
+   }  
+}  
