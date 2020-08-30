@@ -2,19 +2,19 @@
    "uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4", 
    "username":null,  
    "cosmetics":{  
-      "greenfogwings":{  
-         "name":"greenfogwings",  
+      "black":{  
+         "name":"black",  
          "type":"dragon_wings",  
          "scale":0.13,  
          "active":true,  
-         "resourceLocation":"greenfogwings"  
+         "resourceLocation":"black"  
 },  
-      "42020":{  
-         "name":"42020",  
+      "cbred":{  
+         "name":"cbred",  
          "type":"cape",  
          "scale":0.16,  
          "active":true,  
-         "resourceLocation":"42020"  
+         "resourceLocation":"cbred"  
       }  
    }  
 }  
