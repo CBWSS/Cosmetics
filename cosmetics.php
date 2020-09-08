@@ -1,7 +1,1 @@
-<?php
-if (isset($_GET['uuid'])) {
-    echo '{"uuid":"' . $_GET['uuid'] . '","username":null,"cosmetics":{"blackjesus_white":
-{"name":"blackjesus_white","type":"cape","scale":0.16,"active":true,"resourceLocation":"blackjesus_white"},"solidblackwings":
-{"name":"solidblackwings","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"solidblackwings"}}}';
-}
-?>
+{"uuid":"","username":null,"cosmetics":{"protected":{"name":"protected","type":"cape","scale":0.16,"active":true,"resourceLocation":"protected"},"indigo":{"name":"indigo","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"indigo"}}}
