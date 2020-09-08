@@ -11,8 +11,9 @@
 {"name":"lunar_white","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_white"},"blackjesus_black":
 {"name":"blackjesus_black","type":"cape","scale":0.16,"active":false,"resourceLocation":"blackjesus_black"},"blackjesus_white":
 {"name":"blackjesus_white","type":"cape","scale":0.16,"active":false,"resourceLocation":"blackjesus_white"},"youtube_1":
-{"name":"youtube_1","type":"cape","scale":0.16,"active":true,"resourceLocation":"youtube_1"},"red":
-{"name":"red","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"red"},"babyblueaugust":
+{"name":"youtube_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_1"},"Lunar_Gold":
+{"name":"Lunar_Gold","type":"cape","scale":0.16,"active":true,"resourceLocation":"Lunar_Gold"},"normal":
+{"name":"normal","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"normal"},"babyblueaugust":
 {"name":"babyblueaugust","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"babyblueaugust"},"metalicsilveraugust":
 {"name":"metalicsilveraugust","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"metalicsilveraugust"},"pearlwhiteaugust":
 {"name":"pearlwhiteaugust","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"pearlwhiteaugust"},"raspberrypinkaugust":
