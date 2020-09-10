@@ -1,1 +1,0 @@
-{"uuid":"","username":null,"cosmetics":{"protected":{"name":"protected","type":"cape","scale":0.16,"active":true,"resourceLocation":"protected"},"indigo":{"name":"indigo","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"indigo"}}}
