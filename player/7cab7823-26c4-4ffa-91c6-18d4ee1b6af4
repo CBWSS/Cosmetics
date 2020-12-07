@@ -7,14 +7,14 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/CheatBreakerCapes/Cosmetics/master/Cosmetics/capes/bakasweed.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
 },
-      "blue":{ 
-         "name":"blue",
+      "green":{ 
+         "name":"green",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/CheatBreakerCapes/Cosmetics/master/Cosmetics/wings/green.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/green.png"
       }
    }
 }
