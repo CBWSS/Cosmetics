@@ -13,6 +13,6 @@
 {"name":"normal_blue","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_blue"},"normal_green":
 {"name":"normal_green","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_green"},"normal_magenta":
 {"name":"normal_magenta","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_magenta"},"normal":
-{"name":"normal","type":"dragon_wings","scale":0.15,"active":true,"resourceLocation":"normal"},"normal_mint":
+{"name":"normal","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"normal"},"normal_mint":
 {"name":"normal_mint","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_mint"},"normal_orange":
 {"name":"normal_orange","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_orange"}}}
