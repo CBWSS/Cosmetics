@@ -10,10 +10,14 @@
 {"name":"youtube_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_3"},"twitch_1":
 {"name":"twitch_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"twitch_1"},"cb":
 {"name":"cb","type":"cape","scale":0.16,"active":false,"resourceLocation":"cb"},"faithfulnetwork":
-{"name":"faithfulnetwork","type":"cape","scale":0.16,"active":true,"resourceLocation":"faithfulnetwork"},"normal_blue":
+{"name":"faithfulnetwork","type":"cape","scale":0.16,"active":false,"resourceLocation":"faithfulnetwork"},"venezuela":
+{"name":"venezuela","type":"cape","scale":0.16,"active":true,"resourceLocation":"venezuela"},"loyalty":
+{"name":"loyalty","type":"cape","scale":0.16,"active":false,"resourceLocation":"loyalty"},"normal_blue":
 {"name":"normal_blue","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_blue"},"normal_green":
 {"name":"normal_green","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_green"},"normal_magenta":
 {"name":"normal_magenta","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_magenta"},"normal":
 {"name":"normal","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal"},"normal_mint":
-{"name":"normal_mint","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_mint"},"normal_orange":
+{"name":"normal_mint","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_mint"},"red":
+{"name":"red","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"red"},"darkblue":
+{"name":"darkblue","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"darkblue"},"normal_orange":
 {"name":"normal_orange","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"normal_orange"}}}
